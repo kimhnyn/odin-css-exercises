@@ -1,0 +1,11 @@
+/* using no space -> element must have both selected 
+* space is ancestor contained*
+* comma -> elements with one tag and elements with 
+the other will both get the style */
+
+.container .text{
+  background-color: yellow;
+  color: red;
+  font-size: 20px;
+  align-content: center;
+}
